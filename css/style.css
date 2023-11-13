@@ -411,17 +411,17 @@ button {
 }
 
 .heading h5 {
-  font-weight: 400;
-  letter-spacing: 2px;
-  padding-top: 20px;
-  color: #1E1E1E;
+  font-size: 25px;
+  font-weight: 300;
+  margin: 20px 0 40px 0;
+  color: #222222;
 }
 
 .heading h2 {
-  font-size: 30px;
-  font-weight: 400;
-  margin: 20px 0 40px 0;
-  color: #222222;
+  font-weight: 300;
+  letter-spacing: 2px;
+  padding-top: 10px;
+  color: #1E1E1E;
 }
 
 .heading p {
@@ -748,6 +748,14 @@ button {
 
 /*--------------map--------*/
 /*--------------footer--------*/
+
+footer {
+  text-align: center; /* Center the content within the footer */
+  padding: 20px; /* Add space around the content */
+  margin-bottom: 150px; /* Optional: Add space above the footer */
+}
+
+
 footer h3 {
   margin-bottom: 20px;
 }
@@ -760,6 +768,13 @@ footer li {
 footer li:hover {
   color: #FF4500;
   cursor: pointer;
+}
+
+footer .payment {
+  grid-template-columns: repeat(4, 1fr);
+}
+footer .payment  {
+  display: inline;
 }
 
 /*--------------footer--------*/
@@ -1110,4 +1125,5 @@ footer li:hover {
 
   }  /* Add your styles for 912x1368 screens here */
 }
+
 
