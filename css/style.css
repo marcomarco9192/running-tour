@@ -506,7 +506,7 @@ button {
 /*--------------about--------*/
 /*--------------wrapper--------*/
 .wrapper {
-  background-image: url("../image/beforeyougo.jpg");
+  background-image: url("../image/beforeyougo.WebP");
   background-repeat: no-repeat;
   background-size: contain;
   width: 100%;
@@ -606,7 +606,7 @@ button {
 /*--------------room--------*/
 /*--------------wrapper2--------*/
 .wrapper2 {
-  background-image: url("../image/jogging.jpg");
+  background-image: url("../image/jogging.WebP");
 }
 
 .wrapper2 .text {
@@ -1110,3 +1110,4 @@ footer li:hover {
 
   }  /* Add your styles for 912x1368 screens here */
 }
+
