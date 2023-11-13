@@ -311,26 +311,26 @@ button {
   
   .book .price {
     font-size: 20px; /* Increased font size */
-    color: #808080;
+    color: #1E1E1E;
     font-weight: bold;
   }
 
   .book .time {
     font-size: 20px; /* Increased font size */
-    color: #808080;
+    color: #1E1E1E;
     font-weight: bold; /* Increased margin top for more spacing */
   }
 
   .book .meeting {
     font-size: 20px; /* Increased font size */
-    color: #808080;
+    color: #1E1E1E;
     font-weight: bold;
 
   }
 
   .book .duration {
     font-size: 20px; /* Increased font size */
-    color: #808080;
+    color: #1E1E1E;
     font-weight: bold;
     margin-bottom: 20px;
   }
@@ -579,5 +579,7 @@ button {
   }
 }
 
+
+  
 
   
