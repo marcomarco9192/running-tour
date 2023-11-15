@@ -769,6 +769,7 @@ footer {
   text-align: center; /* Center the content within the footer */
   padding: 20px; /* Add space around the content */
   margin-bottom: 20px; /* Optional: Add space above the footer */
+  margin-top: -150px;
 }
 
 
@@ -1144,6 +1145,7 @@ footer .payment  {
 
   }  /* Add your styles for 912x1368 screens here */
 }
+
 
 
 
