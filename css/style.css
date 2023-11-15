@@ -924,6 +924,9 @@ footer .payment  {
   .map .heading {
     margin-left: 40px;
   }
+  #thumbnailContainer {
+    display: none;
+  }
 }
 
 /*--------------media querries--------*/
@@ -1141,5 +1144,6 @@ footer .payment  {
 
   }  /* Add your styles for 912x1368 screens here */
 }
+
 
 
