@@ -450,12 +450,11 @@ button {
     footer .payment {
       grid-template-columns: repeat(4, 1fr);
     }
-    footer {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      text-align: center; /* Center text content within the footer */
-    }
+  footer {
+        text-align: center; /* Center the content within the footer */
+        padding: 20px; /* Add space around the content */
+        margin-bottom: 20px; /* Optional: Add space above the footer */
+      }
     footer h3 {
       margin-bottom: 20px;
     }
